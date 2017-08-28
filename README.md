@@ -34,8 +34,8 @@ Refresh token is valid until revoked
 
 An example of this file is as follows:
 
-don@gmail.com,3MVG9yZ.WNe6byQDbcaQvmckmQApQtRU9umnAxN_AJbAWi.ocdtA7aZdey6Ql6.65Ul7g8.5qVy8L.PXJJUuz,https://login.salesforce.com,hands,Account:Opportunity:Case
-pfendt@dev.com.adm,3MVG98XJQQAccJQe_9h.KwAg9GRdd.vijrOKpZUYMDOwsMwwl5tY1JUYjxcQmlLaj3gzFhJqiV2ZmyJvSRTuU,https://login.salesforce.com,dev,Account:Opportunity:Case
+don@gmail.com,3MVG9yZ.WNe6byQDbcaQvmckmQApQtRU9umnAxN_WWbAWi.ocdtA7aZdey6Ql6.65Ul7g8.5qVy8L.PXJJUuz,https://login.salesforce.com,hands,Account:Opportunity:Case
+pat@gmail.com,3MVG98XJQQAccJQe_9h.KwAg9GRdd.vijrOKpZUYWWOwsMwwl5tY1JUYjxcQmlLaj3gzFhJqiV2ZmyJvSRTuU,https://login.salesforce.com,dev,Account:Opportunity:Case
 
 Note that the <object-list> at the end consists of one or more object names (object API names) separated by colons. 
 
