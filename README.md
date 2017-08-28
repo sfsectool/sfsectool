@@ -2,7 +2,7 @@ Overview
 
 This tool was designed to analyze a significant number of orgs (e.g. more than a couple and up to 100 or so) from various perspectives.  The tool is a web application built using Java 8 JEE 7.  It requires a single configuration file (called “orgs.txt”) where all the various Orgs are configured.  More about this in the “Authentication into Your Orgs” section below. 
 
-The tool currently uses OAuth 2.0 JWT to authenticate into your Salesforce Orgs. However, if using this method of authentication becomes inconvenient, we can enhance the tool to support an additional form of authentication. 
+The tool currently uses OAuth 2.0 JWT to authenticate into your Salesforce Orgs. 
 
 The local directory name tells the tool where any share-rules metadata exists on the local file system (downloaded via Force.com Migration Tool).  The object-list tells the tool which objects to look for in this directory. (Currently, Sharing Rules is the only area where the Force.com Migration Tool is used.)
 
